@@ -1,5 +1,3 @@
-# software-engineering-lab
-"""
 Database Layer
 --------------
 PostgreSQL-backed persistence using SQLAlchemy ORM.
@@ -10,4 +8,3 @@ Run PostgreSQL:
 
 Run API:
   uvicorn app:app --reload
-"""
